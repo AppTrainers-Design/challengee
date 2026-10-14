@@ -1,0 +1,6 @@
+{
+  "name": "App Challenge Competition Management System",
+  "description": "Complete school game development competition management system integrated with LMS training, team management, judge evaluation, ranking, and bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
